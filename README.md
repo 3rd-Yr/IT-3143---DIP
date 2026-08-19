@@ -1,30 +1,38 @@
-# 🖼️ Digital Image Processing Using Prolog
+# 🖼️ Digital Image Processing Using Python
 
-A **Digital Image Processing** project developed using **Prolog**, demonstrating how logical programming and rule-based reasoning can be applied to basic image-processing concepts.
+A collection of practical exercises and projects developed to explore the fundamental concepts of **Digital Image Processing (DIP)** using Python.
+
+This project focuses on processing, analyzing, and enhancing digital images through various computational techniques and Python libraries.
 
 ### 🔹 Key Concepts
 
-* Digital image representation
-* Image pixels and matrices
-* Image analysis
-* Image transformation
-* Pattern recognition
-* Rule-based processing
-* Logical reasoning using Prolog
+* Image reading and visualization
+* Image representation and pixel manipulation
+* Image resizing and transformation
+* Grayscale image processing
+* Image enhancement
+* Image filtering
+* Noise reduction
+* Edge detection
+* Thresholding and segmentation
+* Histogram analysis
+* Image conversion and manipulation
+
+### 🛠️ Technologies & Libraries
+
+* `Python`
+* `OpenCV`
+* `NumPy`
+* `Matplotlib`
+* `Pillow (PIL)`
+* `Jupyter Notebook`
 
 ### 🎯 Objective
 
-The objective of this project is to explore how **Prolog** can be used to represent and process image-related information through facts, rules, and logical queries.
+The main objective of this project is to understand the principles of **Digital Image Processing** and implement different image-processing techniques using Python.
 
-The system demonstrates how image properties can be represented as knowledge and how Prolog's inference mechanism can be used to analyze and derive information from that knowledge.
-
-### 🛠️ Technologies
-
-* **Prolog**
-* Logic Programming
-* Knowledge Representation
-* Rule-Based Reasoning
+The project provides practical experience in manipulating and analyzing images while demonstrating how image-processing algorithms can be applied to real-world problems.
 
 ### 📚 Academic Context
 
-Developed as part of the **Digital Image Processing** subject to understand fundamental image-processing concepts and explore their implementation using **Prolog and logical programming techniques**.
+Developed as part of the **Digital Image Processing** subject to gain practical knowledge of image representation, enhancement, filtering, segmentation, and computer-based image analysis.
